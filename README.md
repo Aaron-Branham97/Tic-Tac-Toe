@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-##Introduction Welcome to TicTacToe! The project was made for a Software Engineering Individual Project.
+##Introduction Welcome to TicTacToe! The project was made for a Software Engineering Individual Project. 
 
 
 
@@ -20,37 +20,44 @@ The first player to go will be player X. Click on a tile to place your "token" t
   <img src="Pictures/XFirstTurn.PNG" width="350"/>
 </p>
 
-In this example, the X Player's places his/her's first token on the Top-Left tile on the grid. It is not O Player's turn.
+In this example, Player X places his/her's first token on the Top-Left tile on the grid. It is now Player O's turn.
 
 <p align="center">
   <img src="Pictures/OFirstTurn.PNG" width="350"/>
 </p>
 
+Player O places his/her token in the Bottom-Left tile on the grid.
 
 <p align="center">
   <img src="Pictures/XSecondTurn.PNG" width="350"/>
 </p>
 
+Player X places his/her token in the Top-Middle tile on the grid. Player X now has 2 in a row!
 
-a<p align="center">
+<p align="center">
   <img src="Pictures/OSecondTurn.PNG" width="350"/>
 </p>
 
+Player O places his/her token in the Top-Right tile on the grid to keep Player X from winning next turn, and it also means that Player O just needs the Middle-Middle tile to get 3 in a row!
 
 <p align="center">
   <img src="Pictures/XThirdTurn.PNG" width="350"/>
 </p>
 
+Player X then places his/her token in the Middle-Middle tile to keep O from winning and to garreentee his win! He will either get the win with the middle vertical three in a row or the diagnal from the Top-Left to Bottom-Right.
 
 <p align="center">
   <img src="Pictures/OThirdTurn.PNG" width="350"/>
 </p>
 
+Player O places his/her token in the Bottom-Right tile to keep stop the diagnal win for Player X.
 
 <p align="center">
   <img src="Pictures/XFourthTurn.PNG" width="350"/>
 </p>
 
+Player X places his/her token in the Bottom-Middle tile to get the middle vertical three in a row win condition.
+
 ##Acknowledgements
 
-The professor of my C++ course provided the random number generator and player input functions for this assignment. I wrote the game logic, secret code generator, and header file. The title was made using a text-to-ASCII-art generator found on this website.
+The professor of my Software Engineering course provided the project structure with what classes did what. I wrote the game logic and the GUI.
