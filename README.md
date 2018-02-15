@@ -12,15 +12,13 @@
 
 ##Instructions This is a two player game, so find a friend to play aganist! The object of this game is to get three of your character's (either X's or O's) in a row either horrizontally, vertically or diagnally.
 
-alt text
-
-The player's input shows to the right of the "Enter Code:" text. After the user makes a guess, the computer displays the guess in the "YOUR GUESSES" column. The column under "CORRECT" displays the number of digits that are correct and in their correct spots. The column under "MISPLACED" shows the number of digits that are correct but are not in their correct positions.
+The first player to go will be player X. Click on a tile to place your "token" this will end your turn. Player O will then place his/her token and this will continue till either: Player X or Player O gets a 3 in a row or all tiles have been used and there cannont be a winner and this will result in a tie!
 
 ##Example Gameplay
 
-This gameplay usest the defaults settings of having an allowed digit range of 1 through 6 and a set code length of 4 digits. The example game logic provided would need to be changed if either of these settings were adjusted. See customizations for instructions on changing these features.
-
-alt text
+<p align="center">
+  <img src="Pictures/XFirstTurn.PNG" width="350"/>
+</p>
 
 In this example, the player's first guess is "1234". This yields 0 correct and 2 misplaced. This means that two of the digits from the guess are in the secret code, but are not in their correct positions.
 
