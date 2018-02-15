@@ -4,15 +4,15 @@
 
 
 
-##Installation Click here to download the zip folder that contains the program files. If that does not work, click the "Clone or download" button and select the option "Download Zip". Next, find the zip folder in your downloads folder. Unzip the folder to a convenient location. To run this project you can either run the jar file in the main folder.  
+##Installation Click here to download the zip folder that contains the program files. If that does not work, click the "Clone or download" button and select the option "Download Zip". Next, find the zip folder in your downloads folder. Unzip the folder to a convenient location. To run this project, you can either run the jar file in the main folder.  
 
 <p align="center">
   <img src="Pictures/OpeningBoard.PNG" width="350"/>
 </p>
 
-##Instructions This is a two player game, so find a friend to play aganist! The object of this game is to get three of your character's (either X's or O's) in a row either horrizontally, vertically or diagnally on a 3x3 grid.
+##Instructions This is a two player game, so find a friend to play against! The object of this game is to get three of your character's (either X's or O's) in a row either horizontally, vertically or diagonally on a 3x3 grid.
 
-The first player to go will be player X. Click on a tile to place your "token" this will end your turn. Player O will then place his/her token and this will continue till either: Player X or Player O gets a 3 in a row or all tiles have been used and there cannont be a winner and this will result in a tie!
+The first player to go will be player X. Click on a tile to place your "token" this will end your turn. Player O will then place his/her token and this will continue till either: Player X or Player O gets a 3 in a row or all tiles have been used and there cannot be a winner and this will result in a tie!
 
 ##Example Gameplay
 
@@ -44,13 +44,13 @@ Player O places his/her token in the Top-Right tile on the grid to keep Player X
   <img src="Pictures/XThirdTurn.PNG" width="350"/>
 </p>
 
-Player X then places his/her token in the Middle-Middle tile to keep O from winning and to garreentee his win! He will either get the win with the middle vertical three in a row or the diagnal from the Top-Left to Bottom-Right.
+Player X then places his/her token in the Middle-Middle tile to keep O from winning and to guarantee his win! He will either get the win with the middle vertical three in a row or the diagonal from the Top-Left to Bottom-Right.
 
 <p align="center">
   <img src="Pictures/OThirdTurn.PNG" width="350"/>
 </p>
 
-Player O places his/her token in the Bottom-Right tile to keep stop the diagnal win for Player X.
+Player O places his/her token in the Bottom-Right tile to keep stop the diagonal win for Player X.
 
 <p align="center">
   <img src="Pictures/XFourthTurn.PNG" width="350"/>
