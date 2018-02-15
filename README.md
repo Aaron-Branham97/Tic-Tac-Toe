@@ -4,7 +4,7 @@
 
 
 
-##Installation Click here to download the zip folder that contains the program files. If that does not work, click the "Clone or download" button and select the option "Download Zip". Next, find the zip folder in your downloads folder. Unzip the folder to a convenient location. To run this project, you can either run the jar file in the main folder.  
+##Installation Click here to download the zip folder that contains the program files. If that does not work, click the "Clone or download" button and select the option "Download Zip". Next, find the zip folder in your downloads folder. Unzip the folder to a convenient location. To run this project, you can run the jar file in the main folder.  
 
 <p align="center">
   <img src="Pictures/OpeningBoard.PNG" width="350"/>
